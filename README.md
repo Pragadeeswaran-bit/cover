@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3892cf06-0bbb-49e2-b8a2-9b7ac893bdfd)# Ex.06 Book Front Cover Page Design
+# Ex.06 Book Front Cover Page Design
 ### NAME  : Pragadeeswaran L
 ### REG NO: 212223240120
 
